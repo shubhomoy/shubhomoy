@@ -47,7 +47,7 @@
 
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhomoy" alt="Top languages />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhomoy" alt="Top languages" />
 
 
 [website]: https://shubhomoy.github.io
