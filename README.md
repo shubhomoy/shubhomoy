@@ -35,6 +35,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+[![Shubhomoy's github stats](https://github-readme-stats.vercel.app/api?username=shubhomoy)](https://github.com/shubhomoy/github-readme-stats)
+
 [website]: https://shubhomoy.github.io
 [gmail]: shubhomoy.biswas95@gmail.com
 [linkedin]: https://www.linkedin.com/in/shubhomoybiswas/
