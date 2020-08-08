@@ -45,6 +45,11 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shubhomoy&show_icons=true&hide_border=true&count_private=true" alt="Shubhomoy github stats" />
 
+<br />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhomoy" alt="Top languages />
+
+
 [website]: https://shubhomoy.github.io
 [gmail]: shubhomoy.biswas95@gmail.com
 [linkedin]: https://www.linkedin.com/in/shubhomoybiswas/
