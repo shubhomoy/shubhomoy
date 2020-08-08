@@ -47,7 +47,7 @@
 
 
 [website]: https://shubhomoy.github.io
-[gmail]: shubhomoy.biswas95@gmail.com
+[gmail]: mailto:shubhomoy.biswas95@gmail.com
 [linkedin]: https://www.linkedin.com/in/shubhomoybiswas/
 [instagram]: https://www.instagram.com/shubhomoy.biswas/
 [patreon]: https://www.patreon.com/shubhomoy
