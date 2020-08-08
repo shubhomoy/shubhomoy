@@ -31,6 +31,10 @@
 <br />
 <br />
 
+### Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://shubhomoy.github.io
 [gmail]: shubhomoy.biswas95@gmail.com
 [linkedin]: https://www.linkedin.com/in/shubhomoybiswas/
