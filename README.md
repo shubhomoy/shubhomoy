@@ -10,29 +10,22 @@
 
 ### Connect with me:
 
-[<img alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg"/>][gmail]
-[<img alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"/>][linkedin]
-[<img alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg"/>][instagram]
-[<img alt="patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/patreon.svg"/>][patreon]
+[<img alt="mail" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg"/>][gmail]
+[<img alt="linkedin" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"/>][linkedin]
+[<img alt="instagram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg"/>][instagram]
+[<img alt="patreon" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/patreon.svg"/>][patreon]
 
 <br />
 
 ### Languages and tools
 
 <img alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg"/>
-
 <img alt="node" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg"/>
-
 <img alt="java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg"/>
-
 <img alt="c++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg"/>
-
 <img alt="html5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/html5.svg"/>
-
 <img alt="react" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg"/>
-
 <img alt="kubernetes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kubernetes.svg"/>
-
 <img alt="android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/android.svg"/>
 
 <br />
