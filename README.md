@@ -21,12 +21,12 @@
 
 <img alt="python" align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg"/>
 <img alt="node" align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg"/>
-<img alt="java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg"/>
-<img alt="c++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg"/>
-<img alt="html5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/html5.svg"/>
-<img alt="react" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg"/>
-<img alt="kubernetes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kubernetes.svg"/>
-<img alt="android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/android.svg"/>
+<img alt="java" align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg"/>
+<img alt="c++" align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg"/>
+<img alt="html5" align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/html5.svg"/>
+<img alt="react" align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg"/>
+<img alt="kubernetes" align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kubernetes.svg"/>
+<img alt="android" align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/android.svg"/>
 
 <br />
 <br />
