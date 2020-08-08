@@ -43,7 +43,7 @@
 
 ---
 
-[![Shubhomoy's github stats](https://github-readme-stats.vercel.app/api?username=shubhomoy)](https://github.com/shubhomoy/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=shubhomoy&show_icons=true&hide_border=true" alt="Shubhomoy github stats" />
 
 [website]: https://shubhomoy.github.io
 [gmail]: shubhomoy.biswas95@gmail.com
