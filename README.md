@@ -38,7 +38,6 @@
 - [Shadow of the Colossus — a different approach towards gaming experience](https://medium.com/@shubhomoybiswas/shadow-of-the-colossus-a-different-approach-towards-gaming-experience-3e5576f91c09?source=rss-73062b35c246------2)
 - [How we built a Kubernetes as a Service Platform from scratch](https://medium.com/faun/how-we-built-a-kubernetes-as-a-service-platform-from-scratch-7d406a3977c4?source=rss-73062b35c246------2)
 - [Writing Kubernetes Operator using Operator SDK](https://medium.com/faun/writing-kubernetes-operator-using-operator-sdk-c2e7f845163a?source=rss-73062b35c246------2)
-- [Kubernetes in a Nutshell](https://medium.com/faun/kubernetes-in-a-nutshell-f408a0e9dcfa?source=rss-73062b35c246------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
