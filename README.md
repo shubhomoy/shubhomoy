@@ -33,11 +33,11 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Logging Architectures, EFK Stack and Kubernetes](https://medium.com/faun/logging-architectures-efk-stack-and-kubernetes-6c3f4d940775?source=rss-73062b35c246------2)
 - [Auto-Remediation systems — A thought and an Overview](https://medium.com/faun/auto-remediation-systems-a-thought-and-an-overview-c45876fe307f?source=rss-73062b35c246------2)
 - [How I filter Medium’s premium articles](https://medium.com/@shubhomoybiswas/how-i-filter-mediums-premium-articles-90c3bae8e1f?source=rss-73062b35c246------2)
 - [Shadow of the Colossus — a different approach towards gaming experience](https://medium.com/@shubhomoybiswas/shadow-of-the-colossus-a-different-approach-towards-gaming-experience-3e5576f91c09?source=rss-73062b35c246------2)
 - [How we built a Kubernetes as a Service Platform from scratch](https://medium.com/faun/how-we-built-a-kubernetes-as-a-service-platform-from-scratch-7d406a3977c4?source=rss-73062b35c246------2)
-- [Writing Kubernetes Operator using Operator SDK](https://medium.com/faun/writing-kubernetes-operator-using-operator-sdk-c2e7f845163a?source=rss-73062b35c246------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
