@@ -33,11 +33,11 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Diffie-Hellman key exchange in End-to-End Encryption (E2EE)](https://medium.com/@shubhomoybiswas/diffie-hellman-key-exchange-in-end-to-end-encryption-e2ee-2366e056661?source=rss-73062b35c246------2)
 - [Logging Architectures, EFK Stack and Kubernetes](https://medium.com/faun/logging-architectures-efk-stack-and-kubernetes-6c3f4d940775?source=rss-73062b35c246------2)
 - [Auto-Remediation systems — A thought and an Overview](https://medium.com/faun/auto-remediation-systems-a-thought-and-an-overview-c45876fe307f?source=rss-73062b35c246------2)
 - [Shadow of the Colossus — a different approach towards gaming experience](https://medium.com/@shubhomoybiswas/shadow-of-the-colossus-a-different-approach-towards-gaming-experience-3e5576f91c09?source=rss-73062b35c246------2)
 - [How we built a Kubernetes as a Service Platform from scratch](https://medium.com/faun/how-we-built-a-kubernetes-as-a-service-platform-from-scratch-7d406a3977c4?source=rss-73062b35c246------2)
-- [Writing Kubernetes Operator using Operator SDK](https://medium.com/faun/writing-kubernetes-operator-using-operator-sdk-c2e7f845163a?source=rss-73062b35c246------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
