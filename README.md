@@ -33,6 +33,7 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB Aggregation vs MapReduce in a Sharded setup on Docker containers](https://medium.com/faun/mongodb-aggregation-vs-mapreduce-in-a-sharded-setup-on-docker-containers-25ed7c489d70)
 - [Diffie-Hellman key exchange in End-to-End Encryption (E2EE)](https://medium.com/@shubhomoybiswas/diffie-hellman-key-exchange-in-end-to-end-encryption-e2ee-2366e056661?source=rss-73062b35c246------2)
 - [Logging Architectures, EFK Stack and Kubernetes](https://medium.com/faun/logging-architectures-efk-stack-and-kubernetes-6c3f4d940775?source=rss-73062b35c246------2)
 - [Auto-Remediation systems — A thought and an Overview](https://medium.com/faun/auto-remediation-systems-a-thought-and-an-overview-c45876fe307f?source=rss-73062b35c246------2)
