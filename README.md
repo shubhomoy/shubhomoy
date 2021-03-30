@@ -13,7 +13,6 @@
 [<img alt="mail" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg"/>][gmail]
 [<img alt="linkedin" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"/>][linkedin]
 [<img alt="instagram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg"/>][instagram]
-[<img alt="patreon" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/patreon.svg"/>][patreon]
 
 <br />
 
@@ -49,5 +48,5 @@
 [website]: https://shubhomoy.github.io
 [gmail]: mailto:shubhomoy.biswas95@gmail.com
 [linkedin]: https://www.linkedin.com/in/shubhomoybiswas/
-[instagram]: https://www.instagram.com/shubhomoy.biswas/
+[instagram]: https://www.instagram.com/im.on.cloud/
 [patreon]: https://www.patreon.com/shubhomoy
