@@ -32,6 +32,8 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Writing custom metrics exporter for Kubernetes HPA](https://faun.pub/writing-custom-metrics-exporter-for-kubernetes-hpa-8a2601a53386)
+- [Running Apache Spark with HDFS on Kubernetes cluster](https://medium.com/analytics-vidhya/running-apache-spark-with-hdfs-on-kubernetes-cluster-f98d05ac2f15)
 - [MongoDB Aggregation vs MapReduce in a Sharded setup on Docker containers](https://medium.com/faun/mongodb-aggregation-vs-mapreduce-in-a-sharded-setup-on-docker-containers-25ed7c489d70)
 - [Diffie-Hellman key exchange in End-to-End Encryption (E2EE)](https://medium.com/@shubhomoybiswas/diffie-hellman-key-exchange-in-end-to-end-encryption-e2ee-2366e056661?source=rss-73062b35c246------2)
 - [Logging Architectures, EFK Stack and Kubernetes](https://medium.com/faun/logging-architectures-efk-stack-and-kubernetes-6c3f4d940775?source=rss-73062b35c246------2)
