@@ -2,7 +2,7 @@
 
 ## I'm a Developer cum DevOps engineer
 
-- I currently work at Reliance Jio Platforms.
+- I am currently pursuing Masters in Computer Science from Uppsala University, Sweden.
 - I love to build software tools used to create robust infrastructure.
 - In my free time, I create apps and websites just for fun.
 - I am looking to collaborate with other software engineers and architects
